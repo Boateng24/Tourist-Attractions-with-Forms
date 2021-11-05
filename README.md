@@ -1,2 +1,2 @@
 # Tourist-Attractions-with-Forms
-Codecadem django forms project
+Codecademy django forms project
